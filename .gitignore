@@ -1,0 +1,14 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore IDE specific artifacts:
+.idea
+
+# Ignore the testing logs
+logs
+
+# Ignore git related artifacts:
+.gitattributes
+
+# Ignore Gradle build output directory
+build
